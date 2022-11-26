@@ -1,2 +1,45 @@
-
-/* Your CSS Code here. */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 10px;
+}
+#b1{
+    background-color: brown;
+}
+#b2{
+    background-color: brown;
+}
+#b3{
+    background-color: brown;
+}
+#b4{
+    background-color: brown;
+}
+#b5{
+    background-color: brown;
+}
+#b6{
+    background-color: brown;
+}
+#b7{
+    background-color: brown;
+}
+#b8{
+    background-color: brown;
+}
+#b9{
+    background-color: brown;
+}
+#b10{
+    background-color: brown;
+}
